@@ -1,7 +1,7 @@
 Setup Instructions - To run this project:
-1. Clone the repository using "git clone https://github.com/prachithakur23567/E-CommerceWebsite.git".Then install all dependencies using npm install. After that, start the project using npm start.
+1. Clone the repository using "git clone https://github.com/prachithakur23567/E-CommerceWebsite.git". Then install all dependencies using npm install. After that, start the project using npm start.
 2. Assumptions made- (i) Assumption is that the filter and the menu button (on the left side of the navbar) is used to toggle the filter section which include category,brand and price.
-(ii) Assumption Product Searching is based on Product Category by "search product" and Product Name by "search product".
+(ii) Assumption Product Searching is based on Product Category by "search category" and Product Name by "search products".
 (iii) Assumption is that filtering of brands is based on the filtering of category of products.
 3. Architectural Decisions
 Created custom hooks to improve code reusability, maintainability, and separation of concerns:
