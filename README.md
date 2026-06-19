@@ -13,6 +13,6 @@ Used useMemo to optimize filtering operations by memoizing computed results, pre
 Organized the project into separate folders for components, hooks, pages, APIs, utilities, and context management to improve readability and maintainability.
 It is responsive according to size of tablet screen.
 4. Improvements if given more time-
-5. (i) Make the application fully mobile responsive to ensure a seamless experience across all screen sizes and devices.
+(i) Make the application fully mobile responsive to ensure a seamless experience across all screen sizes and devices.
 (ii) Implement functionality for the Add to Cart icon by creating a cart management system that allows users to add, remove, and view products in their cart.
 (iii) Implement functionality for the Profile icon by adding user authentication, profile management, and account-related features such as login, registration, and user details management.
